@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Điện thoại",
+    "image": "/imgs/products/dien-thoai.png",
+    "link": "dien-thoại.html"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "image": "/imgs/products/laptop.png",
+    "link": "laptop.html"
+  },
+  {
+    "id": 3,
+    "name": "Apple",
+    "image": "/imgs/products/apple.png",
+    "link": "apple.html"
+  },
+  {
+    "id": 4,
+    "name": "Máy tính bảng",
+    "image": "/imgs/products/tablet.png",
+    "link": "tablet.html"
+  },
+  {
+    "id": 5,
+    "name": "Đồng hồ thông minh",
+    "image": "/imgs/products/smart-watch.png",
+    "link": "smart-watch.html"
+  },
+  {
+    "id": 6,
+    "name": "Ốp lưng điện thoại",
+    "image": "/imgs/products/op-lung.png",
+    "link": "op-lung.html"
+  },
+  {
+    "id": 7,
+    "name": "Tai nghe",
+    "image": "/imgs/products/tai-nghe.png",
+    "link": "tai-nghe.html"
+  },
+  {
+    "id": 8,
+    "name": "Thẻ nhớ",
+    "image": "/imgs/products/the-nho.png",
+    "link": "the-nho.html"
+  },
+  {
+    "id": 9,
+    "name": "Loa nghe nhạc",
+    "image": "/imgs/products/loa-nghe-nhac.png",
+    "link": "loa-nghe-nhac.html"
+  },
+  {
+    "id": 10,
+    "name": "Sạc - cáp",
+    "image": "/imgs/products/cap-sac.png",
+    "link": "cap-sac.html"
+  },
+  {
+    "id": 11,
+    "name": "Máy tính để bàn",
+    "image": "/imgs/products/may-tinh-de-ban.png",
+    "link": "may-tinh-de-ban.html"
+  },
+  {
+    "id": 12,
+    "name": "Máy in",
+    "image": "/imgs/products/may-in.png",
+    "link": "may-in.html"
+  }
+]

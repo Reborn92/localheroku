@@ -1,0 +1,23 @@
+body{
+    background-image: url("../../imgs/Cloud.jpg");
+    background-size: cover;
+    color: #ffffff;
+}
+.box {
+    float: left;
+    width: 100%;
+    background-color: #b2c0c990;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #d9d9d9;
+    position: relative;
+}
+.box .desc{
+    margin-top: 15px;
+}
+.box .img{
+    position: absolute;
+    right: 15px;
+    bottom: 30px;
+}
